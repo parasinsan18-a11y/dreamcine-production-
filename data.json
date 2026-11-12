@@ -1,0 +1,168 @@
+{
+  "hero": {
+    "rec": "REC · Video production, creative editing, AI content",
+    "l1": "Your vision.",
+    "l2": "Our creation.",
+    "intro": "From concept to final cut, DreamCine Production shoots, edits and teaches. Scroll down and watch our work take shape.",
+    "cta1": "See our work",
+    "cta2": "Join the academy"
+  },
+  "marquee": [
+    "Videography",
+    "Reels",
+    "Podcasts",
+    "Brand films",
+    "AI video",
+    "Editing"
+  ],
+  "services": {
+    "title": "Our services",
+    "sub": "From a simple shoot to a full production, pick what fits your project.",
+    "items": [
+      {
+        "icon": "📷",
+        "title": "Basic shoot + editing",
+        "desc": "Basic video shooting and simple editing.",
+        "price": "₹500",
+        "img": "",
+        "details": ""
+      },
+      {
+        "icon": "▶️",
+        "title": "Advanced shoot + video editing",
+        "desc": "Enhanced shooting and polished video editing.",
+        "price": "₹1,000",
+        "img": "",
+        "details": ""
+      },
+      {
+        "icon": "🎬",
+        "title": "Professional video production + editing",
+        "desc": "Professional video production and refined editing.",
+        "price": "₹1,500 – ₹2,000",
+        "img": "",
+        "details": ""
+      },
+      {
+        "icon": "📱",
+        "title": "Reels production",
+        "desc": "Short-form videos for Instagram and social media.",
+        "price": "₹2,000 – ₹2,000",
+        "img": "",
+        "details": ""
+      },
+      {
+        "icon": "🎞️",
+        "title": "Basic reel",
+        "desc": "An additional reel creation option for existing projects.",
+        "price": "₹1,000 – ₹2,500",
+        "img": "",
+        "details": ""
+      },
+      {
+        "icon": "📣",
+        "title": "Commercial ads & UGC videos",
+        "desc": "Creative advertisements, UGC-style content and brand promotions.",
+        "price": "₹3,000 – ₹8,000",
+        "img": "",
+        "details": ""
+      },
+      {
+        "icon": "🎙️",
+        "title": "Podcast production",
+        "desc": "Professional podcast recording and video editing.",
+        "price": "₹10,000 – ₹20,000",
+        "img": "",
+        "details": ""
+      }
+    ]
+  },
+  "projects": {
+    "title": "Selected work",
+    "sub": "A few projects we are proud of.",
+    "items": []
+  },
+  "caps": {
+    "title": "Creative capabilities",
+    "sub": "More than just videos, we create experiences.",
+    "items": [
+      "Professional videography",
+      "Cinematography",
+      "Music video production",
+      "AI video creation",
+      "Commercial & brand films",
+      "Product videography",
+      "Social media content",
+      "Professional video editing"
+    ]
+  },
+  "courses": {
+    "title": "DreamCine Creative Academy",
+    "sub": "Learn AI video creation and professional video editing. Learn, create, edit, grow.",
+    "items": [
+      {
+        "tag": "Course 01 · 3 months",
+        "title": "Basic course",
+        "desc": "Learn video editing fundamentals, AI tools, creative storytelling and digital content creation.",
+        "price": "₹14,990",
+        "img": "",
+        "details": ""
+      },
+      {
+        "tag": "Course 02",
+        "title": "Advanced course",
+        "desc": "Explore advanced editing, AI-powered video creation, creative workflows and professional content production.",
+        "price": "₹29,999",
+        "img": "",
+        "details": ""
+      },
+      {
+        "tag": "Course 03",
+        "title": "Basic to advanced",
+        "desc": "A complete learning pathway from editing fundamentals to advanced AI video production and professional editing workflows.",
+        "price": "₹40,000",
+        "img": "",
+        "details": ""
+      }
+    ],
+    "tools": [
+      "Pr",
+      "Ae",
+      "Ai",
+      "DaVinci",
+      "Blender",
+      "+ more"
+    ]
+  },
+  "contact": {
+    "title": "Let’s create something amazing.",
+    "line": "Professional content. Creative thinking. Powerful results.",
+    "phone": "9729013052",
+    "instagram": "https://www.instagram.com/dreamcineproduction",
+    "youtube": "https://www.youtube.com/@DreamCineproduction",
+    "igLabel": "Instagram: Dream Cine Production",
+    "ytLabel": "YouTube: Dream Cine Production",
+    "formTitle": "Send us a message",
+    "formHint": "Tell us what you need or share your feedback. It opens in WhatsApp, ready to send to us."
+  },
+  "theme": {
+    "blue": "#5b8cff",
+    "orange": "#ffb02e",
+    "violet": "#cfd9ff",
+    "displayFont": "Bebas Neue",
+    "bodyFont": "Montserrat"
+  },
+  "highlights": {
+    "title": "Highlights",
+    "sub": "Fresh from our sets and edit suites."
+  },
+  "payments": {
+    "title": "Pay with UPI",
+    "note": "Pay in any UPI app such as PhonePe, Google Pay or Paytm. After paying, send us the screenshot on WhatsApp.",
+    "upiId": "",
+    "payeeName": "DreamCine Production",
+    "qrImg": ""
+  },
+  "design": 2,
+  "_ts": 0
+}
